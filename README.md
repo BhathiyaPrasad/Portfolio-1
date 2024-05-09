@@ -64,6 +64,13 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
+## Hosting Instructions
+
+Can Easily And Freely Hosted With Vercel.com
+Open https://vercel.com/
+Create An Account(Totally Free)
+Then Find Te Repository That You Need To Host
+
 ## Usage Instructions
 
 Open the project folder and Navigate to `/src/components/`. <br/>
